@@ -7,11 +7,12 @@ body {
 }
 
 header {
-    background-color: #0066cc;
+    background-color: #0066cc;  
     color: white;
     padding: 20px;
     text-align: center;
-}
+    /*Agregar un color llamativo*/
+} 
 
 nav {
     background-color: #004080;
@@ -57,4 +58,5 @@ footer {
     padding: 15px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     margin-bottom: 20px;
+    /*Para finalizar, mira un par de veces la pagina y si te convence, dejalo asi*/
 }
